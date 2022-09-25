@@ -1,6 +1,6 @@
 # Telegram 游戏表情包 Telegram Gaming Emojis
 
-与游戏有关的表情包，专用于 Telegram。例如：游戏品牌 / 标志等。
+与游戏有关的表情包，专用于 Telegram。例如：游戏品牌 / 标志等。  
 Gaming related emojis for Telegram. E.g.: gaming brands / logos.
 
 ## 如何使用
